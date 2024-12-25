@@ -1,0 +1,16 @@
+{
+  "name": "orgsscrapper",
+  "version": "1.0.0",
+  "description": "GSOC Orgs Scrapper",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./src/index.js"
+  },
+  "author": "Monu",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.11.1"
+  }
+}
